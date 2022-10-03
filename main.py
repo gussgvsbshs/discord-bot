@@ -15,8 +15,6 @@ w = W = cc.RESET
 clear = lambda: system('cls') if os_name == 'nt' else system('clear')
 def _input(text):print(text, end='');return input()
 
-token =" MTAyMDM2NTExNjUwNTU4Nzc5Mw.Gv6GdQ.Doo_aPVBfJ-pQMDdLG8JnLypEIsIIjmZpCuBWo
-
 baner = f'''
 {r} _   _       _       {m} ____        _   
 {r}| \ | |_   _| | _____{m}| __ )  ___ | |_ 
